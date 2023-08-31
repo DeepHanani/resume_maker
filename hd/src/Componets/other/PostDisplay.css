@@ -1,0 +1,98 @@
+
+.main_Container {
+    width: 100%;
+    height: 1750px;
+    padding: 30px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+   background-color: rgb(67, 65, 65);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+  }
+  
+  #main {
+    width: 400px;
+    background-color: rgb(155, 148, 148);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding:20px 200px;
+    margin: auto;
+  }
+  
+  .sign {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: 0px auto;
+    margin-bottom: 3px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .sign h2{
+    color: black;
+    text-decoration: underline;
+  }
+  
+  
+  
+  .input_filed {
+    margin: 7px;
+    /* padding: 11px 150px 11px 4px; */
+    width: 450px;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 6px;
+    /* border: 3px solid rgb(119, 79, 6); */
+    border: navy;
+    text-decoration: none;
+    /* color: red; */
+  }
+
+  /* input::placeholder{
+    color: rgb(154, 70, 70);
+  } */
+
+  
+  
+  .btn-primary {
+    margin-left: 5px;
+    margin-top: 20px;
+    padding: 11px 218px;
+    border-radius: 5px;
+    background-color: rgb(8, 143, 10);
+    color: white;
+    border: none;
+    font-size: 15px;
+  }
+  
+  .account {
+    /* text-align: center; */
+    margin-top: 15px;
+  }
+  
+  .account a{
+    text-decoration: none;
+    color:white;
+    text-decoration: underline;
+  }
+  
+  /* .input_filed:hover {
+    border: 2px solid white;
+  } */
+  
+  .Under-line {
+    margin-top: 10px;
+    /* width: 190px; */
+    /* margin: auto; */
+  }
+
+  .select{
+    padding: 9px 20px;
+    margin-left: 8px;
+    border-radius: 10px;
+  }
+
+
+  
